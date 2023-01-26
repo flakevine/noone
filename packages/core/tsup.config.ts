@@ -8,4 +8,5 @@ export default defineConfig({
     splitting: true,
     bundle: true,
     format: ["esm", "cjs"],  
+    outDir: "../../dist"
 })
