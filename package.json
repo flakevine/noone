@@ -1,0 +1,21 @@
+{
+  "name": "noone",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^6.5.0",
+    "typescript": "^4.9.4",
+    "vitest": "^0.28.2"
+  },
+  "dependencies": {
+    "@trpc/server": "^10.9.0",
+    "zod": "^3.20.2"
+  }
+}
