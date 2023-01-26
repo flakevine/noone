@@ -1,0 +1,1 @@
+pnpm i && cd packages/core && pnpm build && cd ../client && pnpm build && cd ../..
